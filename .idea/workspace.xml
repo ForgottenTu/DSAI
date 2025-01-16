@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f1f9625-144d-44ab-b2bc-7b2558a10f85" name="Changes" comment="UE_06">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UE06/UE04-OOP-Library-Students.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UE06/UE04-OOP-Library-Students.ipynb" afterDir="false" />
+    <list default="true" id="0f1f9625-144d-44ab-b2bc-7b2558a10f85" name="Changes" comment="U5-u7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UE07/UE05_NumPy-WarmUp-Students (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/UE07/UE05_NumPy-WarmUp-Students (1).ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +24,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\DSAI\UE09" />
+      <recent name="C:\Users\julia\DSAI\UE08\PandasTutorial_Introduction" />
+      <recent name="C:\Users\julia\DSAI\UE08" />
       <recent name="C:\Users\julia\DSAI" />
       <recent name="C:\Users\julia\DSAI\UE06" />
-      <recent name="C:\Users\julia\DSAI\UE05" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -52,6 +52,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UE_02_6" />
     <MESSAGE value="UE_06" />
-    <option name="LAST_COMMIT_MESSAGE" value="UE_06" />
+    <MESSAGE value="U5-u7" />
+    <option name="LAST_COMMIT_MESSAGE" value="U5-u7" />
   </component>
 </project>
